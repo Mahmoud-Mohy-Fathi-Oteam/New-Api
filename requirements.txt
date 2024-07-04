@@ -6,3 +6,4 @@ numpy
 ultralytics
 tensorflow
 Pillow
+pip 24.1.1
