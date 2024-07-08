@@ -1,7 +1,6 @@
 [build]
-  [build]
   command = "pip install -r requirements.txt && gunicorn app:app"
-  publish = "build"
+  publish = "."
 
 [[redirects]]
   from = "/*"
